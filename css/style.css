@@ -1,0 +1,68 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-size: 20px;
+}
+
+.block {
+	padding: 15px 30%;
+	/*text-align: center;*/
+}
+
+/*Font Family*/
+.mitr {
+	font-family: 'Mitr', sans-serif;
+}
+.pridi {
+	font-family: 'Pridi', serif;
+}
+.kanit {
+	font-family: 'Maitree', serif;
+}
+.maitree {
+	font-family: 'Maitree', serif;
+}
+
+/*Color*/
+.black {
+	color: #fff;
+	background-color: #101010;
+}
+.grey-darken {
+	color: #fff;
+	background-color: #212121;
+}
+.grey-darken-2 {
+	color: #fff;
+	background-color: #424242;
+}
+.dimgrey {
+	color: #fff;
+	background-color: #696969;
+}
+.gray {
+	color: #fff;
+	background-color: #808080;
+}
+.dark-gray {
+	color: #fff;
+	background-color: #a9a9a9;
+}
+.light-gray {
+	color: #000;
+	background-color: #d3d3d3;
+}
+.gainsboro {
+	color: #000;
+	background-color: #dcdcdc;
+}
+.white-smoke {
+	color: #000;
+	background-color: #f5f5f5;
+}
+.silver {
+	color: #fff;
+	background-color: #c0c0c0;
+}
